@@ -21,6 +21,7 @@ src: "color-guideline/單色使用範例.png"
 plain: true
 src: "color-guideline/強調色範例.png"
 ```
+
 ## 類別五色
 ```color-palette
 colors:
@@ -37,8 +38,8 @@ colors:
 plain: true
 src: "color-guideline/多色使用範例.png"
 ```
-## 主色漸層色
 
+## 主色漸層色
 ```color-palette|span-1
 colors:
   - {value: "#0b967d"}
